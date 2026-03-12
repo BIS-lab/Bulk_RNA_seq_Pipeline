@@ -1,0 +1,7 @@
+sample,file,Condition,Batch
+ConditionA_1,../1_Preprocessing/0_result/star_salmon/ConditionA_1/quant.sf,ConditionA,1
+ConditionA_2,../1_Preprocessing/0_result/star_salmon/ConditionA_2/quant.sf,ConditionA,1
+ConditionA_3,../1_Preprocessing/0_result/star_salmon/ConditionA_3/quant.sf,ConditionA,2
+ConditionB_1,../1_Preprocessing/0_result/star_salmon/ConditionB_1/quant.sf,ConditionB,2
+ConditionB_2,../1_Preprocessing/0_result/star_salmon/ConditionB_2/quant.sf,ConditionB,2
+ConditionB_3,../1_Preprocessing/0_result/star_salmon/ConditionB_3/quant.sf,ConditionB,1

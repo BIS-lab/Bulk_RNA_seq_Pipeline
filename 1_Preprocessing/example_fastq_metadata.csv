@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+ConditionA_1,./ConditionA_1_R1_001.fastq.gz,./ConditionA_1_R2_001.fastq.gz,auto
+ConditionA_2,./ConditionA_2_R1_001.fastq.gz,./ConditionA_2_R2_001.fastq.gz,auto
+ConditionA_3,./ConditionA_3_R1_001.fastq.gz,./ConditionA_3_R2_001.fastq.gz,auto
+ConditionB_1,./ConditionB_1_R1_001.fastq.gz,./ConditionB_1_R2_001.fastq.gz,auto
+ConditionB_2,./ConditionB_2_R1_001.fastq.gz,./ConditionB_2_R2_001.fastq.gz,auto
+ConditionB_3,./ConditionB_3_R1_001.fastq.gz,./ConditionB_3_R2_001.fastq.gz,auto

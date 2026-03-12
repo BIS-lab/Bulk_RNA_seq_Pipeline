@@ -1,0 +1,12 @@
+NXF_VER=25.04.0 nextflow run nf-core/rnaseq -r 3.22.2 \
+--input example_fastq_metadata.csv \
+-profile docker \
+--genome null \
+-c my.config \
+--igenomes_ignore true \
+--save_reference \
+--outdir './0_result' \
+--aligner 'star_salmon' \
+--fasta '../3_References/Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa' \
+--gtf '../3_References/Homo_sapiens.GRCh38.112.gtf' \
+-resume
